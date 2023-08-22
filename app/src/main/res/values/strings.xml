@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HR Managment System</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="logout">Logout</string>
+    <string name="upload_resume">Upload Resume</string>
+    <string name="subjects">Subjects</string>
+    <string name="send">Send</string>
+    <string name="upload_a_pdf">Upload A Pdf</string>
+    <string name="upload_your_resume">Upload Your Resume</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933032031183",
+    "project_id": "fir-login-app-9eef1",
+    "storage_bucket": "fir-login-app-9eef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933032031183:android:27b05a4e2e7d7b113b18ba",
+        "android_client_info": {
+          "package_name": "com.example.hrmanagmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933032031183-vnt49e2hi3umqqqp5oujbuqo2rdk9t8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4yqzRUHbg4DAQpvf41ZIuj8b-lc9maw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933032031183-vnt49e2hi3umqqqp5oujbuqo2rdk9t8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
